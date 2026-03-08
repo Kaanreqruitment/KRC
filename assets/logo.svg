@@ -1,0 +1,18 @@
+<svg width="180" height="48" viewBox="0 0 180 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kaan Recruitment KRC Logo">
+  <!-- Gradient -->
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f7cff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon -->
+  <rect x="2" y="2" width="44" height="44" rx="12" fill="url(#grad)"/>
+  <text x="24" y="31" text-anchor="middle" font-size="15" font-family="Inter, Arial, sans-serif" font-weight="800" fill="#0b0f18">KRC</text>
+
+  <!-- Wordmark -->
+  <text x="58" y="31" font-size="20" font-family="Inter, Arial, sans-serif" font-weight="700" fill="#E6EAF5">
+    Kaan Recruitment
+  </text>
+</svg>
